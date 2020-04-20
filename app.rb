@@ -8,7 +8,7 @@ end
 get '/hometown' do
   "Hello, World!"
 end
-get '/favorite' do
+get '/favorite-song' do
   "Hello, World!"
 end
 end
